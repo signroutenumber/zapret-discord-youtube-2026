@@ -98,7 +98,7 @@
     `netsh winhttp reset proxy`
   
     `ipconfig /flushdns`
-  
+
 - Перезагрузите компьютер
 
 ### Не работает телеграм (веб версия)
